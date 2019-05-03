@@ -7,12 +7,24 @@
 $blue: #4183C4;
 
 // Grays
+
+$blue: #0970CE;
+$border-color: #DBF8F7;
+$red: #F94A73;
+$grey: #7794A2;
+$dark: #223843;
+$yellow: #F5A623;
+$purple: #504BBE;
+$turquoise: #00A098;
+$bg-grey: #f7fafd;
+
 $black: #000;
-$darkerGray: #222;
+$darkerGray: $dark;
 $darkGray: #333;
-$gray: #666;
+$gray: $grey;
 $lightGray: #eee;
 $white: #fff;
+
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
@@ -20,7 +32,7 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Fonts
-$base-font: 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
+$base-font: 'Poppins', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
 $code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
 
 // Font sizes
