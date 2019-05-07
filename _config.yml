@@ -37,6 +37,10 @@ navigation:
 paginate: 5
 
 
+future: TRUE
+timezone: Europe/London
+
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
