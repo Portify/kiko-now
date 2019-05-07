@@ -10,6 +10,26 @@
   <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,800,900" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
+  <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script>
+  window.addEventListener("load", function(){
+  window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#f1f3f5",
+        "text": "#838391"
+      },
+      "button": {
+        "background": "#f94a73",
+        "text": "#ffffff",
+        "border-radius": "100px"
+      }
+    },
+    "theme": "classic",
+    "position": "bottom-right"
+  })});
+  </script>
   <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
 </head>

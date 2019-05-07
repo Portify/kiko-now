@@ -26,8 +26,10 @@ navigation:
   #   url: /about
   # - name: Archive
   #   url: /archive
-  # - name: Tags
-  #   url: /tags
+  - name: FAQs
+    url: https://faq.portify.co
+  - name: About
+    url: https://portify.co/about
   - name: Main Site →
     url: https://portify.co
 
@@ -60,7 +62,7 @@ footer-text: © 2019 Portify Limited. All Rights Reserved. Portify is registered
 disqus: # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-139684568-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
