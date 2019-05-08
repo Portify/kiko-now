@@ -27,7 +27,7 @@ navigation:
   # - name: Archive
   #   url: /archive
   - name: FAQs
-    url: https://faq.portify.co
+    url: https://support.portify.co
   - name: About
     url: https://portify.co/about
   - name: Main Site →
@@ -35,6 +35,11 @@ navigation:
 
 # Pagination
 paginate: 5
+
+
+future: TRUE
+timezone: Europe/London
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
