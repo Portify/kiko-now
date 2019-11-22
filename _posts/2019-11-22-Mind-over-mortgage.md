@@ -1,8 +1,9 @@
 ---
-title: Mind over Mortgage: Practical tips you can take to start the process of saving for your first house!
+title: 'Mind over Mortgage: Saving for your first home'
 layout: post
-comments: true
 ---
+
+**Practical steps to save for your first home.**
 
 With house prices increasing steadily since the turn of the millennium, the big house with a white picket fence and garden seems to be hurtling further and further away for the average UK adult. 
 However, the desire to take out a mortgage is still very much a pressing priority for our community.
