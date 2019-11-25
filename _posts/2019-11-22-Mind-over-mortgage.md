@@ -91,6 +91,5 @@ Saving for your first mortgage deposit isn’t easy, and with times quickly chan
 [https://www.moneyadviceservice.org.uk/en/tools/house-buying/mortgage-affordability-calculator](https://www.moneyadviceservice.org.uk/en/tools/house-buying/mortgage-affordability-calculator)
 
 ### Loan Payoff Calculator:
-[https://www.moneyunder30.com/loan-payoff-calculator](https://www.moneyunder30.com/loan-payoff-calculator
-[https://www.moneyunder30.com/loan-payoff-calculator])
+[https://www.moneyunder30.com/loan-payoff-calculator](https://www.moneyunder30.com/loan-payoff-calculator)
 
