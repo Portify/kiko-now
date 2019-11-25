@@ -76,7 +76,7 @@ Saving for your first mortgage deposit isn’t easy, and with times quickly chan
 ## Extra Resources: 
 
 ### General information on Mortgages                                                                                     
-<https://www.moneysupermarket.com/mortgages/>
+(https://www.moneysupermarket.com/mortgages/)
 
 ### Help to Buy ISA vs Lifetime ISA:
 https://hoa.org.uk/advice/guides-for-homeowners/i-am-buying/the-help-to-buy-isa-or-lifetime-isa/
