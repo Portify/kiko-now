@@ -79,17 +79,18 @@ Saving for your first mortgage deposit isn’t easy, and with times quickly chan
 [https://www.moneysupermarket.com/mortgages/](https://www.moneysupermarket.com/mortgages/)
 
 ### Help to Buy ISA vs Lifetime ISA:
-https://hoa.org.uk/advice/guides-for-homeowners/i-am-buying/the-help-to-buy-isa-or-lifetime-isa/
+[https://hoa.org.uk/advice/guides-for-homeowners/i-am-buying/the-help-to-buy-isa-or-lifetime-isa/](https://hoa.org.uk/advice/guides-for-homeowners/i-am-buying/the-help-to-buy-isa-or-lifetime-isa/)
 
 ### How to raise a deposit:
-https://www.moneysupermarket.com/mortgages/first-time-buyers/how-to-raise-a-deposit/
+[https://www.moneysupermarket.com/mortgages/first-time-buyers/how-to-raise-a-deposit/](https://www.moneysupermarket.com/mortgages/first-time-buyers/how-to-raise-a-deposit/)
 
 ### Housing Price Index information: 
-https://www.gov.uk/government/news/uk-house-price-index-for-april-2018
+[https://www.gov.uk/government/news/uk-house-price-index-for-april-2018](https://www.gov.uk/government/news/uk-house-price-index-for-april-2018)
 
 ### Mortgage Affordability Calculator:
-https://www.moneyadviceservice.org.uk/en/tools/house-buying/mortgage-affordability-calculator
+[https://www.moneyadviceservice.org.uk/en/tools/house-buying/mortgage-affordability-calculator](https://www.moneyadviceservice.org.uk/en/tools/house-buying/mortgage-affordability-calculator)
 
 ### Loan Payoff Calculator:
-https://www.moneyunder30.com/loan-payoff-calculator
+[https://www.moneyunder30.com/loan-payoff-calculator](https://www.moneyunder30.com/loan-payoff-calculator
+[https://www.moneyunder30.com/loan-payoff-calculator])
 
