@@ -69,8 +69,10 @@ Whatever medium works for you, it’s important to go above and beyond leaving i
 
 Saving for your first mortgage deposit isn’t easy, and with times quickly changing, there’s an incredible amount of pressure to buy a house amidst the storm. That doesn’t mean it isn’t a possible or attainable goal. It all starts with process. 
 
-###### We’ll be delving deeper into Mortgage specifics in our next few blog posts so stay tuned!
+We’ll be delving deeper into Mortgage specifics in our next few blog posts so stay tuned!
 
+#### In the meantime, sure you sign up for Portify below to manage your finances and access interest-free financing below:
+[https://portify.app.link/signin?cc=gb&cam=mom25112019](https://portify.app.link/signin?cc=gb&cam=mom25112019)
 
 
 ## Extra Resources: 
