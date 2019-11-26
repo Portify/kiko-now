@@ -71,8 +71,7 @@ Saving for your first mortgage deposit isn’t easy, and with times quickly chan
 
 We’ll be delving deeper into Mortgage specifics in our next few blog posts so stay tuned!
 
-#### In the meantime, sure you sign up for Portify below to manage your finances and access interest-free financing below:
-## [Sign Up Here](https://portify.app.link/signin?cc=gb&cam=mom25112019)
+#### Get a picture of your current finances through the Portify cashflow tools available in app - sign up [here.](https://portify.app.link/signin?cc=gb&cam=mom25112019)
 
 
 ## Extra Resources: 
