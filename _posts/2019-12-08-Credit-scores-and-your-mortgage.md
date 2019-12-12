@@ -11,7 +11,7 @@ Essentially, your A credit score is a tool used by lenders to help determine you
 ### So what exactly does my credit score affect when it comes to mortgages?
 
 
-Mortgages are based on risk-based pricing. Lenders can increase the cost of your mortgage for every risk associated with your credit profile. The higher your credit score is the better your terms will be. 
+Mortgages are based on risk-based pricing. Lenders can increase the cost of your mortgage for every risk associated with your credit profile. The higher your credit score is, the better your terms will be. 
 Your credit score can affect the following:
 
 ###### Repayment rates: 
@@ -19,10 +19,10 @@ When you take out a mortgage, a monthly repayment rate is the amount you pay tow
 
 ###### Interest rate: 
 
-A mortgage interest rate is the annual cost of borrowing money from your lender. The average rate is based on the mortgage bond market, the loan to value ratio, and your credit score. The LTV is the percentage is the ratio between the value of the loan you take out and the value of the property as a whole, expressed as a percentage. Similarly to repayment rates, lenders may increase or decrease the interest you pay on your mortgage based on the likelihood of you defaulting on the loan. 
+A mortgage interest rate is the annual cost of borrowing money from your lender. The average rate is based on the mortgage bond market, the loan to value ratio, and your credit score. The LTV is the difference between the value of the loan you take out and the value of the property as a whole, expressed as a percentage. Similarly to repayment rates, lenders may increase or decrease the interest you pay on your mortgage based on the likelihood of you defaulting on the loan. 
 
 ###### Homeowners insurance: 
-Although not compulsory, credit scores can affect how much you’ll pay for private homeowners insurance. Generally, the better your credit score, the easier and cheaper it will be to secure insurance.
+Although not compulsory, credit scores can affect how much you’ll pay for private homeowners insurance. Generally, the better your credit score, the easier and cheaper it will be to secure homeowners insurance.
 
 Interested in how this will translate to real-time payments? Check out the [Loan payoff calculator here.](https://www.moneyunder30.com/loan-payoff-calculator) by moneyunder30 to test out how different interest rates will affect your monthly repayments.
 
