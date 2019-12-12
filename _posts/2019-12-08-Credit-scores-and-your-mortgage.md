@@ -24,7 +24,7 @@ A mortgage interest rate is the annual cost of borrowing money from your lender.
 ###### Homeowners insurance: 
 Although not compulsory, credit scores can affect how much you’ll pay for private homeowners insurance. Generally, the better your credit score, the easier and cheaper it will be to secure insurance.
 
-Interested in how this will translate to real-time payments? Check out the [Loan payoff calculator](https://www.moneyunder30.com/loan-payoff-calculator) by moneyunder30 to test out how different interest rates will affect your monthly repayments.
+Interested in how this will translate to real-time payments? Check out the [Loan payoff calculator here.](https://www.moneyunder30.com/loan-payoff-calculator) by moneyunder30 to test out how different interest rates will affect your monthly repayments.
 
 #### How can I build my credit score?
 
@@ -32,7 +32,7 @@ Interested in how this will translate to real-time payments? Check out the [Loan
 It’s much harder to get a mortgage with no credit history - interest rates may be higher or less competitive. You can check your credit score for free using Experian, and credit checks have no impact on your score. 
 
 ###### Make payments on loans, credit cards and bills on time each month: 
-It may go without saying, but it’s important to keep in mind the importance of timely repayments of bills, loans and credit cards. This sends a strong statement 
+It may go without saying, but it’s important to keep in mind the importance of timely repayments of bills, loans and credit cards. This sends a strong statement to lenders and brokers about your trustworthiness.
 
 ###### Close unused accounts with large credit limits: 
 If you aren’t using an account that has a large credit limit, the amount could send a negative message to lenders about your creditworthiness. For more on credit scores, check out our blog [here.](https://blog.portify.co/Credit-Scores-Explained/)
