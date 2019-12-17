@@ -29,7 +29,7 @@ Secure some extra cash and make sure you sell your old belongings ahead of Chris
 
 ### 4) Buy Your Groceries At the Cheapest Supermarkets
 
-Make sure you leverage your opportunity to save on necessities like groceries. Aldi, Lidl and Asda have consistently ranked as some of UK’s [cheapest supermarkets]. (https://www.birminghammail.co.uk/whats-on/shopping/uks-cheapest-supermarket-officially-revealed-16549881). 
+Make sure you leverage your opportunity to save on necessities like groceries. Aldi, Lidl and Asda have consistently ranked as some of UK’s [cheapest supermarkets](https://www.birminghammail.co.uk/whats-on/shopping/uks-cheapest-supermarket-officially-revealed-16549881). 
 Purchasing your items at cheaper supermarkets will decrease the cost of total grocery expenditure, which is super useful at a time like Christmas when you may be cooking for either more people - or just cooking more food in general!
 
 ### 5) Start Saving and Buying Early to Afford Christmas Gifts
