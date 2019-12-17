@@ -7,7 +7,7 @@ layout: post
 
 The Holidays are fast approaching, and we at Portify are sure that many of you can’t wait to take some time to rest, recharge, spend some time with your loved ones - and dig in to some quality food! 
 
-Now the December holidays is a notorious time for spending. Presents, sales, reductions and more are the name of the game. However, at Portify, we want to make sure our community are ahead of the crowd when it comes to your Christmas bargains. Here are some of our top tips when it comes to saving as much money as possible during the Christmas 
+Now the December holidays is a notorious time for spending. Presents, sales, reductions and more are the name of the game. However, at Portify, we want to make sure our community are ahead of the crowd when it comes to your Christmas bargains. Here are some of our top tips when it comes to saving as much money as possible during the Christmas season. 
 
 ### 1) Be Honest About What You Can Afford
 
