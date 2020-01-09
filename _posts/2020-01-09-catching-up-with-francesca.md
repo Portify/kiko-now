@@ -36,11 +36,14 @@ Holiday! I’m planning to have a great 35th birthday in 2020, in none other tha
 
 ### 5) Where can we follow and support Francesca?
 
-Instagram: @francescabrookefenton
-LinkedIn: Francesca Brooke-Fenton
+You can follow Francesca Instagram: @francescabrookefenton
+
+You can add her on LinkedIn at: Francesca Brooke-Fenton
+
 
 
 #### Don’t forget to join our community on facebook, where we share the latest tips, releases and new financial quiz every week! [Join here!](https://www.facebook.com/portify.co/)
 
+#### Join Portify to manage your finances and access interest-free financing[here.](https://www.portify.co/?cam=fcs090120)
 
 
