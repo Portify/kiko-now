@@ -44,6 +44,6 @@ You can add her on LinkedIn at: Francesca Brooke-Fenton
 
 #### Don’t forget to join our community on facebook, where we share the latest tips, releases and new financial quiz every week! [Join here!](https://www.facebook.com/portify.co/)
 
-#### Join Portify to manage your finances and access interest-free financing[here.](https://www.portify.co/?cam=fcs090120)
+#### Join Portify to manage your finances and access interest-free financing [here.](https://www.portify.co/?cam=fcs090120)
 
 
