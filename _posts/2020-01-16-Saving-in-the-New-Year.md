@@ -54,6 +54,6 @@ We know how important it is to make sure you get a picture of your finance - tha
 
 ##### You can download Portify [here](https://www.portify.co) to access these tools.
 
-##### Remember: you aren’t alone. [Join a community of users on their road to financial freedom here.] (https://www.facebook.com/portify.co/) 
+##### Remember: you aren’t alone. [Join a community of users on their road to financial freedom here.](https://www.facebook.com/portify.co/) 
 
 
