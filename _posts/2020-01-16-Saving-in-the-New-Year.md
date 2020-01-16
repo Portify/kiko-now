@@ -45,7 +45,7 @@ Or, if you’re a chronic spender in the travel department, cracking out your go
 
 ### 5. Seek professional help when you can
 
-[Only one third of the nine million Brits in significant post-December debt ask for professional help.] (https://www.mirror.co.uk/money/britain-cries-help-bills-start-21255713). Sometimes, it can get a bit overwhelming, or sometimes you need an external sounding board to help you with getting your finances in order. There are lots of free resources and debt advice providers, like the Money advice service. Click [here](https://www.moneyadviceservice.org.uk/en/tools/debt-advice-locator) to find out more information on how you can access these services.
+[Only one third of the nine million Brits in significant post-December debt ask for professional help.](https://www.mirror.co.uk/money/britain-cries-help-bills-start-21255713). Sometimes, it can get a bit overwhelming, or sometimes you need an external sounding board to help you with getting your finances in order. There are lots of free resources and debt advice providers, like the Money advice service. Click [here](https://www.moneyadviceservice.org.uk/en/tools/debt-advice-locator) to find out more information on how you can access these services.
 
 
 Being intentional about getting your finances back on track after holiday expenditure is a great way to get closer to financial stability in 2020. Not only will these tips help you get back on track - they can also be more generally applied to your personal financial management to get yourself in order. 
@@ -54,6 +54,6 @@ We know how important it is to make sure you get a picture of your finance - tha
 
 ##### You can download Portify [here](https://www.portify.co) to access these tools.
 
-##### Remember: you aren’t alone. [Join a community of users on their road to financial freedom here.](https://www.facebook.com/portify.co/) 
+##### Remember: You aren’t alone. [Join a community of users on their road to financial freedom here.](https://www.facebook.com/portify.co/) 
 
 
