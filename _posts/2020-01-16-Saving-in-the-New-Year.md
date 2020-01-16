@@ -14,7 +14,9 @@ The Bank of England estimates that [the typical UK household overspends by up to
 
 Here are some of our top tips to making sure that you get the best out of your  finances long before they get the best of you:
 
+
 ### 1. Evaluate your current financial situation
+
 
 It may go without saying, but it’s incredibly important to get an idea of exactly where you’re at right now. In order to get to where you want to go with your finances, much like planning a real cab journey, you need to input your current position. 
 
@@ -22,13 +24,17 @@ Print out or print screen your bank transactions for December (ouch - we know it
 
 Did you overindulge on the turkey (we don’t blame you) or did you have a cracking time on fun activities with the family? Either way, diagnose the problem - then we can find a solution!
 
+
 ### 2. Create a practical, time-bound financial goal 
+
 
 Now you have a better idea of where you are at, you can create a more realistic goal. For example, if you’re currently in your overdraft or behind on some loans, it makes sense to make that your number one financial priority ahead of everything else. Make your goal numerical and time bound for extra clarity and security. There are great goal tracking resources on the internet - as well as built in templates on Microsoft excel. 
 
 For example, if you are £500 in your overdraft, aim to erase your overdraft and get back to a specific balance of £500 in credit within a month. That way, it makes it easier for you to track your progress and assign actionable steps to reach your goal. Adjust based on your salary, financial situation and capacity to reach your goal. 
 
+
 ### 3. Reserve a percentage of your income to reach your goal 
+
 
 You might be tempted to focus solely on paying back any debts straight away. However, it may lead to further issues down the line if you don’t consistently deal with your priorities. For example, you may be in credit-card debt due to expenditure during the holidays, but you may also need to pay your rent and your utilities bill. 
 
@@ -43,7 +49,9 @@ That means you might just have to put your UberEats account on lockdown for a mo
 
 Or, if you’re a chronic spender in the travel department, cracking out your good old bike or finding ways to walk not only decreases your expenditure but increases your physical activity. Win-win!
 
+
 ### 5. Seek professional help when you can
+
 
 [Only one third of the nine million Brits in significant post-December debt ask for professional help.](https://www.mirror.co.uk/money/britain-cries-help-bills-start-21255713). Sometimes, it can get a bit overwhelming, or sometimes you need an external sounding board to help you with getting your finances in order. There are lots of free resources and debt advice providers, like the Money advice service. Click [here](https://www.moneyadviceservice.org.uk/en/tools/debt-advice-locator) to find out more information on how you can access these services.
 
