@@ -43,7 +43,7 @@ One way to deal with this is to ensure you’ve taken care of essentials first, 
 
 ###  4. Find creative ways to minimise your expenditure and avoid impulse spending
 
-Don’t just minimise your expenditure - try to focus specifically on the areas of over-indulgence. We’ve warned you! [A research study conducted by Whistle estimates that a whopping 60-70% of what we purchase in stores is unplanned.](https://www.whistl.co.uk) Don’t get caught out by the tantalising offers on shelves when you go shopping - you got caught out in December already! Plan and account for everything you intend to buy. 
+Don’t just minimise your expenditure - try to focus specifically on the areas of over-indulgence. We’ve warned you! [A research study conducted by Whistle estimates that a whopping 60-70% of what we purchase in stores is unplanned.](https://www.whistl.co.uk) Don’t get caught out by the tantalising offers on shelves when you go shopping - you already got caught out in December! Plan and account for everything you intend to buy. 
 
 That means you might just have to put your UberEats account on lockdown for a month and opt to meal prep ahead of work, school or other commitments. If you spent a lot on clothes and accessories - it might just be your month to find out how many ways you can style those three coats you own differently each day. 
 
@@ -53,7 +53,7 @@ Or, if you’re a chronic spender in the travel department, cracking out your go
 ### 5. Seek professional help when you can
 
 
-[Only one third of the nine million Brits in significant post-December debt ask for professional help.](https://www.mirror.co.uk/money/britain-cries-help-bills-start-21255713). Sometimes, it can get a bit overwhelming, or sometimes you need an external sounding board to help you with getting your finances in order. There are lots of free resources and debt advice providers, like the Money advice service. Click [here](https://www.moneyadviceservice.org.uk/en/tools/debt-advice-locator) to find out more information on how you can access these services.
+[Only one third of the nine million Brits in significant post-December debt ask for professional help.](https://www.mirror.co.uk/money/britain-cries-help-bills-start-21255713) Sometimes, it can get a bit overwhelming, or sometimes you need an external sounding board to help you with getting your finances in order. There are lots of free resources and debt advice providers, like the Money advice service. Click [here](https://www.moneyadviceservice.org.uk/en/tools/debt-advice-locator) to find out more information on how you can access these services.
 
 
 Being intentional about getting your finances back on track after holiday expenditure is a great way to get closer to financial stability in 2020. Not only will these tips help you get back on track - they can also be more generally applied to your personal financial management to get yourself in order. 
