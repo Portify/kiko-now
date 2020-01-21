@@ -2,8 +2,6 @@
 title: 'Budgeting like a Boss: best ways to manage your budget'
 layout: post
 ---
-**Finding the best budget to manage your income and expenditure**
-
 ![image of savings](/assets/rsz_linkedin-sales-navigator-ei50zda-l8y-unsplash.jpg)
 
 
