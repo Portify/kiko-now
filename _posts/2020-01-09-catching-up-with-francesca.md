@@ -2,13 +2,11 @@
 title: 'On the road to Financial Freedom: Catching up with Francesca'
 layout: post
 ---
-
+![community spotlight, an image of our brand ambassador Francesca Brooke Fenton modelling for her fashion show](/assets/rsz_francesca.jpg)
 
 **Catching up with one of our Brand Ambassadors, Francesca Brooke-Fenton!**
 
 We caught up with one of our Brand Ambassadors, Francesca, currently working in marketing and promotion for various brands, as well as modelling with Fashion Fiesta. She’s been a Portify user for almost a year now, and Francesca is a very passionate advocate for mental health.  
-
-![community spotlight, an image of our brand ambassador Francesca Brooke Fenton modelling for her fashion show](/assets/rsz_francesca.jpg)
 
 ### 1) What are you working on right now?
 
