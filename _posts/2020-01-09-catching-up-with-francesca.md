@@ -31,7 +31,7 @@ Holiday! I’m planning to have a great 35th birthday in 2020, in none other tha
 
 ### 4) If you had a million pounds, what would you spend it on?
 
-“Sounds cheesy, but I want to buy a house for my mum. I’m a really family-orientated person. I want to make sure her mum is settled with full ownership of her house. 
+“Sounds cheesy, but I want to buy a house for my mum. I’m a really family-orientated person. I want to make sure my mum is settled with full ownership of her house. 
 
 
 ### 5) Where can we follow and support Francesca?
