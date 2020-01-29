@@ -37,7 +37,7 @@ In efforts to tackle high levels of unauthorised overdraft charges, the Financia
 
 - Treat your overdraft like a bill and pay into it each month: Many of us have the wrong mindset towards our overdraft. Whilst in many ways, it can act like a safety net or buffer, treating it like so can severely hinder your progress getting out of debt and prevent you from prioritising it as a debt to pay off. In fact, many people treat arranged overdrafts like free money. If you treat your current overdraft like a bill that needs to be paid regularly, you’ll end up assigning a portion of your income to ensuring that your overdraft is dealt with.
 
-- Stay in the know with your bank: Many of us are guilty of ignoring our post from the bank, text message updates on fees, or even our emailed bank account statements. Make it a priority to check in with your current bank account provider to find out how these changes will impact both your arranged and unarranged overdraft.
+- Stay in the know with your bank: Many of us are guilty of ignoring our post from the bank, text message updates on fees, or even our emailed bank account statements. Make it a priority to check in with your current bank account provider to find out how these changes will impact your overdraft.
 
 ##### Get a feel for how likely you are to go into overdraft by [checking out our cash-flow features in Portify now!](https://www.portify.co)
 
