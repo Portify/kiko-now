@@ -2,7 +2,9 @@
 title: 'Dealing with Debt: Overcoming a Court County Judgement (CCJ)'
 layout: post
 ---
+
 ![CCJ Credit card debt side hustle](/assets/card.jpg)
+
 You may have come across a County Court Judgement in passing, or you may currently have one taken out against you. Whatever knowledge level you have when it comes to CCJ, we want to make sure you have the most up to date and relevant information when dealing with the order. Whether you are on the brink of a CCJ, recovering from one, or trying to avoid having one taken out against you in future, keep reading for our quick breakdown.
 
 
