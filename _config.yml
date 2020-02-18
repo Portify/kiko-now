@@ -69,7 +69,8 @@ footer-text: © 2019 Portify Limited. All Rights Reserved. Portify is registered
 disqus: # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-139684568-1
+google_analytics_1: UA-139684568-1
+google_analytics_2: UA-108422252-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
